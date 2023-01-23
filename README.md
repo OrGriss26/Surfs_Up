@@ -33,13 +33,13 @@ The results of the Surfs Up Analysis determined the following:
 
 ### June Statistics
 
-![Pic_1](https://github.com/Baylex/surfs_up/blob/main/Resources/june_stat_temp_prcp.PNG)
+![June_Temperature.png](June_Temperature.png)
 
 2. Based on count of 1,517 temperatures in the month of December over the course of seven years, the average temperature is calculated at 71 degrees, minimum of 56 degrees, and maximum of 83 degrees.
 
 ### December Statistics
 
-![Pic_1](https://github.com/Baylex/surfs_up/blob/main/Resources/june_stat_temp_prcp.PNG)
+![December_Temperature.png](December_Temperature.png)
 
 3. There are 183 more temperatures analyzed for June statistics than December statistics for the seven year period, however the amount of variance between the two data sets is relatively close to one another at 3.26 standard deviation (June) and 3.75 standard deviation (December).
 
@@ -49,8 +49,8 @@ The investor's main concern was getting rained out too frequently. Comparing the
 
 ### June
 
-![Pic_1](https://github.com/Baylex/surfs_up/blob/main/Resources/june_stat_temp_prcp.PNG)
+![June_results.png](June_results.png)
 
 ### December
 
-![Pic_1](https://github.com/Baylex/surfs_up/blob/main/Resources/june_stat_temp_prcp.PNG)
+![December_results.png](December_results.png)
